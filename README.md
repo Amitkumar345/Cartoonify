@@ -1,5 +1,5 @@
 # Cartoonify
-<p>Cartoonigy given image.</p>
+<p>Cartoonify given image.</p>
 <p>Click 's' key if you want to save the cartoonified image</p>
 
 ## Input
